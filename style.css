@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=UnifrakturMaguntia&display=swap');
+
+body {
+    background-color: #000000;
+}
+
+.pwned {
+    text-align: center;
+    color: white;
+    font-family: UnifrakturMaguntia;
+    font-weight: 500;
+    font-size: 36px;
+    margin-bottom: 2px;
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-family: Roboto;
+    font-weight: 300;
+}
